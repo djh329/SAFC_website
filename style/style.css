@@ -1,0 +1,21 @@
+.main {
+  width: 100%;
+  height: 100vh;
+}
+
+.topbar {
+  display: relative;
+  background-color: #B31B1B;
+  width: 100%;
+  height: 14%;
+}
+
+.topbar h3 {
+  position: relative;
+  font: "Sans Serif";
+  font-size: 48px;
+  color: white;
+  height: 100%;
+  text-align: center;
+  transform: translateY(30%);
+}
